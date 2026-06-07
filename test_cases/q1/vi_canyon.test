@@ -1,0 +1,8 @@
+class: "ValueIterationTest"
+name: "VI on canyon_grid"
+grid: "canyon"
+discount: "0.9"
+noise: "0.2"
+living_reward: "-0.01"
+iterations: "100"
+tolerance: "0.01"

@@ -1,0 +1,3 @@
+max_points: "20"
+class: "NumberPassedQuestion"
+display_name: "Q3: Q-Learning"
